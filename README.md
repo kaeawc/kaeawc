@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Jason Pearson (he/him)
 
-Currently learning about IC technical leadership and how Staff+ Engineers contribute to an engineering organization
+I practice IC technical leadership while building awesome tools for mobile development.
 
 You can reach me on Twitter: [@kaeawc](https://twitter.com/kaeawc) AMA
