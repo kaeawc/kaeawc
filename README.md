@@ -1,5 +1,7 @@
 ### Hi there 👋 I am Jason Pearson (he/him)
 
-I practice IC technical leadership while building awesome tools for mobile development.
+Read [my blog](https://www.jasonpearson.dev/) or follow `@kaeawc` in the socials.
 
-You can reach me on Twitter: [@kaeawc](https://twitter.com/kaeawc) AMA
+I have 15 years experience across Android, iOS, Mac, Backend, DevOps, BI, and Windows teams and projects.
+
+I love building and maintaining software that helps other people.
